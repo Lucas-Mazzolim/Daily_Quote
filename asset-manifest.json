@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Daily-Quote/static/css/main.96045b4e.css",
-    "main.js": "/Daily-Quote/static/js/main.f2f64801.js",
-    "static/media/paper.png": "/Daily-Quote/static/media/paper.65c401b98673ab3ec33f.png",
-    "index.html": "/Daily-Quote/index.html",
-    "main.96045b4e.css.map": "/Daily-Quote/static/css/main.96045b4e.css.map",
-    "main.f2f64801.js.map": "/Daily-Quote/static/js/main.f2f64801.js.map"
+    "main.css": "/Daily_Quote/static/css/main.dd5d34f6.css",
+    "main.js": "/Daily_Quote/static/js/main.f2f64801.js",
+    "static/media/paper.png": "/Daily_Quote/static/media/paper.65c401b98673ab3ec33f.png",
+    "index.html": "/Daily_Quote/index.html",
+    "main.dd5d34f6.css.map": "/Daily_Quote/static/css/main.dd5d34f6.css.map",
+    "main.f2f64801.js.map": "/Daily_Quote/static/js/main.f2f64801.js.map"
   },
   "entrypoints": [
-    "static/css/main.96045b4e.css",
+    "static/css/main.dd5d34f6.css",
     "static/js/main.f2f64801.js"
   ]
 }
