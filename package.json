@@ -1,6 +1,6 @@
 {
   "homepage": "https://Lucas-Mazzolim.github.io/Daily-Quote",
-  "name": "child_test",
+  "name": "Daily Quote",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
