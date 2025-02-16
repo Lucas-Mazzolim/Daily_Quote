@@ -1,0 +1,23 @@
+.Quote{
+    background-image: url('C:\Users\lucas\Desktop\Child Test\child_test\src\img\paper.png');
+    /* background-color: red; */
+    border: 1px black solid;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-weight: 500;
+    color: rgb(61, 60, 59);
+}
+
+.Quote-Phrase{
+    font-size: calc(1.5vw + 10px);
+    width: 90%;
+    text-align: center;
+}
+
+.Quote-Author{
+    font-size: calc(1vw + 5px);
+}

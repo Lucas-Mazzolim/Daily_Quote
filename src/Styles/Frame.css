@@ -1,0 +1,19 @@
+.Frame{
+    height: 90vh;
+    width: 92.5vw;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background: linear-gradient(white, white) padding-box,
+    linear-gradient(to right, #a2682a 0%, #be8c3c 8%, #be8c3c 18%, #d3b15f 27%, #b17b32 35%, #b17b32 40%, #b17b32 50%, #d3b15f 58%, #be8c3c 67%, #b17b32 77%, #bb8332 83%, #d4a245 88%, #e1b453 93%, #a4692a 100%) border-box;
+    border: 4px solid transparent;
+    border-width: 0.9vw;
+}
+
+@media (max-height: 400px){
+    .Frame{
+        height: 70vh;
+    }
+
+}
