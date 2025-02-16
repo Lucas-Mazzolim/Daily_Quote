@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Daily-Quote/static/css/main.96045b4e.css",
+    "main.js": "/Daily-Quote/static/js/main.f2f64801.js",
+    "static/media/paper.png": "/Daily-Quote/static/media/paper.65c401b98673ab3ec33f.png",
+    "index.html": "/Daily-Quote/index.html",
+    "main.96045b4e.css.map": "/Daily-Quote/static/css/main.96045b4e.css.map",
+    "main.f2f64801.js.map": "/Daily-Quote/static/js/main.f2f64801.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96045b4e.css",
+    "static/js/main.f2f64801.js"
+  ]
+}
